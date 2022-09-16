@@ -1,0 +1,2 @@
+# RicoAplSederhana
+Aaplikasi Kotlin Sederhana
